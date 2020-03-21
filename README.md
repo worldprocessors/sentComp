@@ -1,5 +1,5 @@
 # sentenceComprehension
-Materials for 'Automaton Theories of Human Sentence Comprehension' (Hales, 2014)
+Materials for 'Automaton Theories of Human Sentence Comprehension' (Hale, 2014)
 
 ## Contents
 
